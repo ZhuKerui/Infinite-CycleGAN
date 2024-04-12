@@ -1,6 +1,10 @@
 .DS_Store
 debug*
-datasets/
+# datasets/
+datasets/maps
+datasets/monet2photo
+datasets/tri
+datasets/ukiyoe2photo
 checkpoints/
 results/
 build/
