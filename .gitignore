@@ -1,5 +1,6 @@
 .DS_Store
 debug*
+# datasets/
 datasets/
 checkpoints/
 results/
